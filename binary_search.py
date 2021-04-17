@@ -1,4 +1,4 @@
-import time
+
 # implementation of binary search algorithm
 
 def binary_search(l,target,low=None,high=None):
